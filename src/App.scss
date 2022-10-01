@@ -1,0 +1,33 @@
+a{
+  text-decoration: none;
+  color: rgb(242, 244, 246) !important;
+}
+body{
+  background-color: #212529;
+}
+#button{
+  background-color: rgba(50, 201, 201, 0.778);
+  border-color: aqua;
+  
+}
+#page{
+  background-color: rgba(50, 201, 201, 0.778);
+  border-color: aqua;
+  border: 2px;
+
+}
+#background{
+  background-image: url('https://safemoon.com/_next/static/media/token.66f73762.png');
+  background-position: right;
+  background-repeat: no-repeat;
+}
+.btn-cust{
+  color: rgba(53, 242, 242, 0.811);
+  background-color: rgba(0, 255, 255, 0.399);
+  border-radius: 5px;
+  border: none;
+}
+// #home{
+//   position: fixed;
+//   bottom: o;
+// }
